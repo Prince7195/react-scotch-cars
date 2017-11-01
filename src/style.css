@@ -1,0 +1,11 @@
+/* ./public/style.css */
+
+.is-active {
+    color: #1185e4 !important;
+    text-decoration: underline !important;
+}
+
+.back-button,
+.back-button:hover {
+    color: white;
+}
