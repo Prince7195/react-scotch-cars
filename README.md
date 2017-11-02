@@ -8,7 +8,9 @@ step2: npm install -g create-react-app
 
 step3: go to the location where to create an react app and use the cmd  " create-react-app my-react-app --script-version=react-script-ts "
 
-step4: for routing use " npm install --save react-router-dom "  and " npm install --save-dev @types/react-router-dom"
+step4: npm start
+
+step5: If routing is required use " npm install --save react-router-dom "  and " npm install --save-dev @types/react-router-dom"
 
 React-routing Bug references:
 
