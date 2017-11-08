@@ -6,7 +6,7 @@ Step1: install nodejs - you can find in https://nodejs.org/
 
 step2: npm install -g create-react-app
 
-step3: go to the location where to create an react app and use the cmd  " create-react-app my-react-app --script-version=react-script-ts "
+step3: go to the location where to create an react app and use the cmd  " create-react-app my-react-app --scripts-version=react-scripts-ts "
 
 step4: npm start
 
